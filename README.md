@@ -1,10 +1,10 @@
 # bakoelvespa
 
-Dicoding Submission Android Pemula
+# Dicoding Submission Android Pemula
 
 Submission - Belajar membuat aplikasi android untuk pemula dicoding
 
-#Features
+# Features
 
 Submission Checklists
  Display images and information in the Format list
@@ -12,6 +12,6 @@ Submission Checklists
  Display images and information on the detail page
  Display page about
 
-#Author
+# Author
 
 Zainalsalamun
