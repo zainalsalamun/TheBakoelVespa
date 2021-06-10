@@ -57,24 +57,24 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                     "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/10/11/41192869/41192869_92a8cc94-dd95-44c0-bb3d-e0d7046649c7_1182_1182.jpg","Rp. 44 Juta", "Tangerang"
             },
             {
-                    "Vespa, BTS 150,I-GET ABS, 2017",
-                    "https://ecs7.tokopedia.net/img/cache/700/product-1/2017/11/24/24482425/24482425_284f1148-fa8a-41a1-94be-6c0ebc132f0a.jpg ","Rp. 33 Juta", "Tangerang"
+                    "Vespa, VESPA PRIMAVERA PICNIC 150 I-GET ABS, 2021",
+                    "https://vespa.co.id/assets/img/vespa-primavera/primavera-picnic/banner-1.jpg ","Rp. 50 Juta", "DKI Jakarta"
             },
             {
-                    "Vespa, BTS 150,I-GET ABS, 2017",
-                    "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/10/11/41192869/41192869_92a8cc94-dd95-44c0-bb3d-e0d7046649c7_1182_1182.jpg","35 Juta", "Tangerang"
+                    "Vespa, VESPA SEI GIORNI II EDITION, 2021",
+                    "https://vespa.co.id/assets/img/vespa-gtv/models/gtv-01.png","Rp 156.200.000,-", "Jakarta"
             },
             {
-                    "Vespa, 150, I-GET ABS, 2018",
-                    "https://bd.gaadicdn.com/processedimages/piaggio/piaggio-vespa-125/source/v_piaggio-vespa-125-std1530859339.jpg","Rp. 33 Juta", "Jakarta Selatan"
+                    "Vespa, VESPA GTS SUPER TECH 300, 2021",
+                    "https://vespa.co.id/assets/img/vespa-gts/300/models/black-vulcano-1.png","Rp. Rp 154.200.000,- Juta", "Jakarta Selatan"
             },
             {
-                    "Vespa, VESPA LX 125 I-GET GIALLO LIME, 2017",
-                    "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/10/3/41192869/41192869_1b397083-fa9a-4199-b521-e17dc27ecf04_2048_2048.jpg","Rp. 27 Juta", "Jakarta Barat"
+                    "Vespa, VESPA GTS SUPER 150 I-GET ABS, 2021",
+                    "https://vespa.co.id/assets/img/vespa-gts/150/models/grey-stille-2.png","Rp. Rp 62.700.000,-", "Jakarta Barat"
             },
             {
-                    "Vespa, BTS 150,I-GET ABS, 2017",
-                    "https://www.vespa.com/dam/jcr:886e6ea5-ddb3-4859-88d4-55d56948b875/TopBanner.jpg","Rp. 34 Juta", "Jakarta Selatan"
+                    "Vespa, VESPA SPRINT S 150 I-GET ABS, 2021",
+                    "https://vespa.co.id/assets/img/vespa-sprint/sprint-s/models/blue-audace-04.png","Rp. Rp 50.800.000,- Juta", "Jakarta Selatan"
             }
     };
 
